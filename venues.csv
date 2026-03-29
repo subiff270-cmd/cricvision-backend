@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 venue,avg_score,chase_success,spin_help,pace_help
 Chennai,160,45,70,30
 Mumbai,185,60,40,60
 Bangalore,195,65,30,70
 Delhi,170,55,50,50
 Kolkata,165,50,65,35
+=======
+venue,avg_score,chase_success,spin_help,pace_help
+Chennai,160,45,70,30
+Mumbai,185,60,40,60
+Bangalore,195,65,30,70
+Delhi,170,55,50,50
+Kolkata,165,50,65,35
+>>>>>>> 6be2406e68f637e9784b593c20ba0ac5565e7951
 Hyderabad,175,52,55,45
